@@ -590,6 +590,7 @@
 * [GetModsAPK](https://getmodsapk.com/) - Modded
 * [APK Mod](https://apk-mod.net/) - Modded
 * [MobApks](https://mobapks.com/) - Modded
+* [AKMods](https://www.akmods.in/) - Modded
 * [Modding United](https://moddingunited.xyz/) - Modded / [Telegram](https://telegram.me/allapkforfree)
 * [MHKTricks](https://mhktricks.org/) - Modded
 * [APKDownload](https://apkdownload.cc/) - Modded
